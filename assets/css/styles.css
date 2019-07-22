@@ -254,9 +254,6 @@ p {
   color: #545E6C;
   font-size: 13px;
 }
-.footer .fa-heart {
-  color: #fb866a;
-}
 /* Extra small devices (phones, less than 768px) */
 @media (max-width: 767px) {
   .sidebar-wrapper {
