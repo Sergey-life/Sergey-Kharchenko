@@ -1,1 +1,1 @@
-# sergeikharchenko.github.io
+# https://sregei.github.io/sergei-kharchenko/
